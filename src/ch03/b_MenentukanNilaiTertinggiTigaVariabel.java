@@ -1,8 +1,12 @@
+//Nama	: Ikhwanul Akhmad DLY
+//NIM	: 11950110043
+//Kelas	: TIF 2-D
+
 package ch03;
 
 import java.util.Scanner;
 
-public class menentukanNilaiTertinggiTigaVariabel {
+public class b_MenentukanNilaiTertinggiTigaVariabel {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

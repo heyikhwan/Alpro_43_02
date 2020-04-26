@@ -1,8 +1,12 @@
+//Nama	: Ikhwanul Akhmad DLY
+//NIM	: 11950110043
+//Kelas	: TIF 2-D
+
 package ch03;
 
 import java.util.Scanner;
 
-class menentukanPembagiTerkecil {
+class c_MenentukanPembagiTerkecil {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
