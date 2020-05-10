@@ -8,8 +8,8 @@ public class j_MenampilkanSelisihAngkaGenapYangSetelahnyaGenapPula {
 
         do{
             if (koleksiAngka[i] %2 == 0 && koleksiAngka[i-1] %2 == 0){
-                System.out.print("Hasil dari " + koleksiAngka[i-1] + " dan " + koleksiAngka[i] + " adalah = ");
-                System.out.println(koleksiAngka[i-1] + koleksiAngka[i] + " ");
+                System.out.print("Selisih dari " + koleksiAngka[i-1] + " dan " + koleksiAngka[i] + " adalah = ");
+                System.out.println(koleksiAngka[i-1] - koleksiAngka[i] + " ");
             }
             i++;
         } while(i < koleksiAngka.length);
